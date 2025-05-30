@@ -1,9 +1,22 @@
 import cv2
 from text_extractor import extract_text
+import difflib
+
+def is_significantly_different(new_text, existing_texts, similarity_threshold=0.8):
+    """
+    Check if the new_text is significantly different from any existing text
+    based on difflib similarity.
+    """
+    for existing in existing_texts:
+        similarity = difflib.SequenceMatcher(None, new_text, existing).ratio()
+        if similarity > similarity_threshold:
+            # Too similar to an existing slide; skip it.
+            return False
+    return True
 
 def detect_slides(video_path, threshold=5, min_duration=3, fps=1):
     """
-    Detect slide frames and extract text from them.
+    Detect slide frames and extract text from them, removing duplicates using difflib.
     """
     cap = cv2.VideoCapture(video_path)
     if not cap.isOpened():
@@ -32,7 +45,8 @@ def detect_slides(video_path, threshold=5, min_duration=3, fps=1):
                     if static_frames >= min_duration * fps:
                         text = extract_text(frame)
                         if text != "No text detected":
-                            slide_texts.append(text)
+                            if is_significantly_different(text, slide_texts):
+                                slide_texts.append(text)
                 else:
                     static_frames = 0
             prev_frame = gray
