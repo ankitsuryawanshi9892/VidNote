@@ -4,3 +4,4 @@ pillow
 numpy
 yt-dlp
 reportlab
+easyocr
