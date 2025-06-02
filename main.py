@@ -1,6 +1,6 @@
 from youtube_downloader import download_video
 from slide_detector import detect_slides
-from pdf_generator import create_pdf
+from pdf_generator import create_text_file
 
 def main():
     # Step 1: Download video
@@ -16,8 +16,8 @@ def main():
         print("No slides or text detected.")
         return
 
-    # Step 3: Create PDF
-    pdf_file = create_pdf(slide_texts)
+    # Step 3: Create Text File
+    pdf_file = create_text_file(slide_texts)
     if pdf_file:
         print(f"All done! PDF generated at: {pdf_file}")
     else:
