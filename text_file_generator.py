@@ -1,50 +1,37 @@
-# from reportlab.lib.pagesizes import letter
-# from reportlab.pdfgen import canvas
-# import os
-
-# def create_pdf(text_list, output_file='output/notes.pdf'):
-#     """
-#     Create a PDF from a list of extracted texts.
-#     """
-#     try:
-#         os.makedirs(os.path.dirname(output_file), exist_ok=True)
-#         c = canvas.Canvas(output_file, pagesize=letter)
-#         c.setFont("Helvetica", 12)
-#         y = 750
-
-#         for slide_num, text in enumerate(text_list, 1):
-#             c.drawString(50, y, f"Slide {slide_num}:")
-#             y -= 20
-#             for line in text.split('\n'):
-#                 if y < 50:
-#                     c.showPage()
-#                     c.setFont("Helvetica", 12)
-#                     y = 750
-#                 c.drawString(50, y, line[:100])
-#                 y -= 20
-#             y -= 20
-#         c.save()
-#         print(f"PDF created: {output_file}")
-#         return output_file
-#     except Exception as e:
-#         print(f"Error creating PDF: {e}")
-#         return None
-
 import os
+from datetime import datetime
+from textwrap import wrap
 
-def create_text_file(text_list, output_file='output/notes.txt'):
-    """
-    Create a text file from a list of extracted texts.
-    """
+def create_text_file(content_list, output_file='output/lecture_notes.txt'):
+    """Generate concise notes for short videos"""
     try:
         os.makedirs(os.path.dirname(output_file), exist_ok=True)
+        
         with open(output_file, 'w', encoding='utf-8') as f:
-            for slide_num, text in enumerate(text_list, 1):
-                f.write(f"Slide {slide_num}:\n")
-                f.write(text.strip())
-                f.write("\n\n" + "-"*40 + "\n\n")
-        print(f"Text file created: {output_file}")
+            f.write("CONCISE VIDEO NOTES\n")
+            f.write(f"Generated: {datetime.now().strftime('%Y-%m-%d %H:%M')}\n")
+            f.write("="*40 + "\n\n")
+            
+            for i, content in enumerate(content_list, 1):
+                # Skip very short sections
+                if len(content.split()) < 4:
+                    continue
+                    
+                f.write(f"Key Point {i}:\n")
+                f.write("-"*40 + "\n")
+                
+                # Clean paragraph formatting
+                paragraph = ' '.join(content.split())
+                for line in wrap(paragraph, width=70):
+                    f.write(line + "\n")
+                
+                f.write("\n")
+            
+            f.write("="*40 + "\n")
+            f.write("End of notes\n")
+        
         return output_file
     except Exception as e:
-        print(f"Error creating text file: {e}")
+        print(f"Error creating notes: {e}")
         return None
+    
