@@ -1,9 +1,10 @@
-from youtube_downloader import download_video
+import nltk
+import os
+from youtube_downloader import download_video, get_video_duration
 from slide_detector import detect_slides
 from audio_processor import extract_and_transcribe_audio
 from content_processor import process_content
 from text_file_generator import create_text_file
-import nltk
 
 def initialize_nltk():
     try:
@@ -12,23 +13,51 @@ def initialize_nltk():
         print("Downloading NLTK punkt tokenizer...")
         nltk.download('punkt')
 
+def get_dynamic_slide_params(duration):
+    """
+    Determine slide detection parameters based on video duration (in seconds).
+    """
+    if duration <= 300:  # Short video: <= 5 minutes
+        return {
+            'threshold': 15,
+            'min_duration': 2,
+            'fps': 5
+        }
+    elif 300 < duration <= 900:  # Medium video: 5-15 minutes
+        return {
+            'threshold': 25,
+            'min_duration': 4,
+            'fps': 5
+        }
+    else:  # Long video: > 15 minutes
+        return {
+            'threshold': 35,
+            'min_duration': 6,
+            'fps': 2
+        }
+
 def main():
     initialize_nltk()
     
     url = input("Enter YouTube video URL: ").strip()
+    
+    print("\nFetching video duration...")
+    duration = get_video_duration(url)
+    if duration == 0:
+        print("Could not determine video duration. Using default parameters.")
+    
+    print(f"Video duration: {duration:.2f} seconds")
+    
+    slide_params = get_dynamic_slide_params(duration)
+    print(f"Using slide detection parameters: {slide_params}")
+    
     print("\nDownloading video...")
     video_path = download_video(url)
     if not video_path:
         print("Video download failed.")
         return
 
-    # Optimized parameters for short videos
-    print("\nDetecting slides (optimized for short videos)...")
-    slide_params = {
-        'threshold': 10,  # Higher threshold for more sensitivity
-        'min_duration': 1,  # Shorter duration for brief slides
-        'fps': 2  # Higher frame rate for short videos
-    }
+    print("\nDetecting slides...")
     slide_texts = detect_slides(video_path, **slide_params)
     
     print("\nProcessing audio...")
@@ -47,6 +76,12 @@ def main():
         with open(output_file, 'r') as f:
             print("\nNOTES PREVIEW:")
             print(f.read())
+        
+        try:
+            os.remove(video_path)
+            print(f"\nVideo file deleted: {video_path}")
+        except Exception as e:
+            print(f"\nError deleting video file: {e}")
     else:
         print("Failed to create notes file")
 

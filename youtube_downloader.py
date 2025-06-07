@@ -18,3 +18,16 @@ def download_video(url, output_path='output/video.mp4'):
     except Exception as e:
         print(f"Error downloading video: {e}")
         return None
+    
+def get_video_duration(url):
+    """Fetch video duration in seconds using yt-dlp."""
+    try:
+        ydl_opts = {'quiet': True}
+        with youtube_dl.YoutubeDL(ydl_opts) as ydl:
+            info = ydl.extract_info(url, download=False)
+            duration = info.get('duration', 0)
+        return duration
+    except Exception as e:
+        print(f"Error fetching video duration: {e}")
+        return 0
+    

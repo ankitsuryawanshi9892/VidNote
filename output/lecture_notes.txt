@@ -1,68 +1,999 @@
 CONCISE VIDEO NOTES
-Generated: 2025-06-03 00:44
+Generated: 2025-06-07 17:35
 ========================================
 
 Key Point 1:
 ----------------------------------------
-AUTISM -AKA AUTISM SPECTRUM DISORDER
+A function a block that performs a specific and can reused any the
+program. cto returnType functionN rameters function 2 return result,
+faces
 
 Key Point 2:
 ----------------------------------------
--AKA AUTISM SPECTRUM DISORDER -SYMPTOMS INVOLVE: IMPAIRMENTS SOCIAL
-COMMUNICATION AND INTERACTION
+A function code that performs a specific and can fos the program. .
+returnType onName parameters f r a a oma
 
 Key Point 3:
 ----------------------------------------
--AKA AUTISM SPECTRUM DISORDER SYMPTOMS INVOLVE: IMPAIRMENTS SOCIAL
-COMMUNICATION AND INTERACTION RESTRICTED AND REPETITIVE BEHAVIORS
-INVOLVES ATYPICAL BRAIN ORGANIZATION STARTING EARL
+Afv block code that performs a specific taf anc anywhere the program.
+retr unctionName parameters ion body esult; . J coum
 
 Key Point 4:
 ----------------------------------------
-TYPICAL BRAIN AUTISTIC BRAIN
+nction a block code that performs a specific reused anywhere the
+program. 5 : imType inctionName parameters body etur : iIaBac cess s
 
 Key Point 5:
 ----------------------------------------
-TYPICAL BRAIN AUTISTIC BRAIN UNUSUALLY RAPID GROWTH INFANCY AND EARLY
-CHILDHOOD
+A function a bloct that performs a specific and can reused a r the
+program. return. -functio e parzerters . a . 4 retul 3 x
 
 Key Point 6:
 ----------------------------------------
-TYPICAL BRAIN AUTISTIC BRAIN KAR Ses asi UNUSUALLY RAPID GROWTH
-INFANCY AND EARLY CHILDHOOD ATYPICAL PATTERNS CONNECTIVITY
+A function a s yde that performs a specific a? and can reusec the
+program. a . returnType .. e paré eters functic , a return : ; A 7 4
+lors e Comma
 
 Key Point 7:
 ----------------------------------------
-TYPICAL BRAIN AUTISTIC BRAIN Pax . 45S COs SSN SVE S SREP ess. ean UPa
-Nee SAT ROEEA BIG UNUSUALLY RAPID GROWTH INFANCY AND EARLY CHILDHOOD
-ATYPICAL PATTERNS CONNECTIVITY
+A functic ock code that performs a specific ? and can - anywhere the
+program. returnTyp, ionName paraifie! rej , i 5 Pee cpl
+
+Key Point 8:
+----------------------------------------
+A functir lock code that performs a specific ? and can J anywhere the
+program. returnTyp gona eae i 5 AEE i
 
 Key Point 9:
 ----------------------------------------
-RISK FACTORS MECHANISMS RISK STRONGLY; INFLUENCED GENETICS,
+_ A function performs a specific task; and can rem program. returnTyr
+. uncti ime ters fur 2 retu F foc oar
 
 Key Point 10:
 ----------------------------------------
-RISK FACTORS MECHANISMS RISK STRONGLY; INFLUENCED GENETICS, BUT
-ENVIRONMENT ALSO LIKELY PLAYS A LARGE ROLE RISK FACTORS TYPICALLY
-ASSOCIATED WITH PRENATAL PERINATAL PERIOD E.G, ADVANCED PARENTAL AGE,
-BIRTH COMPLICATIONS
+a A functi? lor ide forms a specific and can wees i a 5 i return , .e
+functi pai ret J foc x joa
 
 Key Point 11:
 ----------------------------------------
-Autism also known Autism spectrum disorder characterized symptoms that
-include impairments social communication and interaction and
-restricted and repetitive behaviours other neuroscience Autism
-superior understood Autism considered a complex developmental disorder
-the involves a typical brain organisation starting early development
-individuals with Autism experience a period unusually rapid brain
-growth infancy and early childhood district pattern connectivity
-between brain regions a number studies report social interaction and
-attention can detected will for the symptoms Autism begin appear this
-point a typical connectivity may linked the occurrence Autism symptoms
-research suggests information stress damage caused oxygen deficiency
-and environmental risk factor production well the mechanism the
-development Autism symptoms
+A function a blor agp sde tha performs a specific and cay reused rein
+sprogram. .. retur 2 functic . tts: Z o rett j foc x oar
+
+Key Point 12:
+----------------------------------------
+a A function a zode . yat performs a specific ? and can bere ? - ere
+yosram. - returnTypef ctir 2 ers functio : return loc e f cool
+
+Key Point 13:
+----------------------------------------
+a block code that performs a specific ereys anywhere the program. -
+iznBgocgscet comm
+
+Key Point 14:
+----------------------------------------
+A function a block code that performs a specific and can anywhere the
+program. - x stun ctionName parameters fur tie pody ; fcfgoaceese4 5 4
+some
+
+Key Point 15:
+----------------------------------------
+tion a block code that performs a specific p reused here the program.
+v . tio stoamaenters BEaction F a 7?
+
+Key Point 16:
+----------------------------------------
+i a block that performs a specific the program. f r funct parameters 4
+4
+
+Key Point 17:
+----------------------------------------
+a A a block code that performs a specific tasK; é d 1 a E guse tal
+program rete unctio wit
+
+Key Point 18:
+----------------------------------------
+A func ... block code that performs a specific tafe and anywhere Inge
+program. return stionNa, wrameters I r b ; a
+
+Key Point 19:
+----------------------------------------
+metion a block code that performs a specific can reused anywhere the
+program. mae funct body A r - Emo
+
+Key Point 20:
+----------------------------------------
+a block code that performs a specific ? greed anywhere the program. 5
+2functionName rameters f ego aecss o 4
+
+Key Point 21:
+----------------------------------------
+Afunctionisat code that performs a specific tah and canbereu: herein
+the program. returnType fun ame parameters a functi retur 1 aaa
+
+Key Point 22:
+----------------------------------------
+A function a block code that perf recific ? and can reused anywhere
+the pre, , a - returnType ani 7 function body return result;
+
+Key Point 23:
+----------------------------------------
+a block code that performs a specific ani eused anywhere a j rogram. 5
+retu, _ a , GEImInaT Onn
+
+Key Point 24:
+----------------------------------------
+function a block code that performs a specific can reused anywhere the
+program. e rninl a curnType egy ees a - isBao aces 5 aan
+
+Key Point 25:
+----------------------------------------
+ction a block code that performs a specific ; reused anywhere the
+program. w yaminl , rae aType functionName p .ineters a Mace 2 Colum
+
+Key Point 26:
+----------------------------------------
+f a block code that performs a specific a the program. 5 4 function e
+parameters 4 ! 4. - - . 6hlho
+
+Key Point 27:
+----------------------------------------
+A fur a block code that performs a specific 2? and _-used anywhere
+rogram. a vratia retu inctionName par eee a 7 4 Beno ceca 8 0 omy
+
+Key Point 28:
+----------------------------------------
+A function a b; ade that performs a specific 2? and can _ ein a i
+rogram. 5 returnType func parameters a body . 4 retu. -asult; S flocs
+: a
+
+Key Point 29:
+----------------------------------------
+A function a block , performs a specific 2? and can reused i vat, ool
+2 a returnType function! -ameters J 1 funeti 4 return result; a . foc
+a
+
+Key Point 30:
+----------------------------------------
+A function a block cod: rforms a specific ? and can reused anywhere
+rogram. pat deb 4 returnType .., eters a function body return result;
+7 4 flocs lak i
+
+Key Point 31:
+----------------------------------------
+A function a block cor _ arforms a specific 6 and can reused anywhe1
+aoe wah debt a returnType functionNarse . crs a function body A return
+result; 4 4 ioc s Malad ? ool
+
+Key Point 32:
+----------------------------------------
+Afr a block code that performs a specific taf? anywhere 0 i rogram. 5
+a tion body - : Gal
+
+Key Point 33:
+----------------------------------------
+A fur a block code that performs a specific taf and 2used anywhere the
+program. ret pits etre a ction E A , isMgoaceeza 5
+
+Key Point 34:
+----------------------------------------
+A fur- a block code that performs a specific ? ane zused anywhere the
+program. coe ret ; functionName parameters 5 inction body _ i i
+lvefgoaeecz oop
+
+Key Point 35:
+----------------------------------------
+A function a ade that performs a specific taf and can reuse q
+returnType fun parameters a eturtiVEE p 5 fun return, a
+
+Key Point 36:
+----------------------------------------
+A function a ode that performs a specific and can reus ere the
+program. wnt aol a Cwinl cetuniiine fun piel 5 fun return, a
+
+Key Point 37:
+----------------------------------------
+A function a b code that performs a specific and can reus yere the
+program. 5 tatty returnType fur plist u 209 a functy F retur a isos
+
+Key Point 38:
+----------------------------------------
+A function a code that performs a specific and can reus cetunniWBe fur
+pivots ytcisets 5 func ! retur! a
+
+Key Point 39:
+----------------------------------------
+A function 2 code that performs a specific and can ! the program. 5
+eae nds cetunniWBe Tifel sel e428 f J functi 7 - return i e : lec e
+mse apo
+
+Key Point 40:
+----------------------------------------
+A functior block code that performs a specific and can anywhere 0 i
+rogram. 5 wat p returnTy -cti CTI f J I ; ane
+
+Key Point 41:
+----------------------------------------
+A fur s a block code that performs a specific taf and eused anywhere
+the program. Gun a i ters retur é Unger d J body iuefgoaescs 5 Gop
+
+Key Point 42:
+----------------------------------------
+A function - code that performs a specific ? and can ber ywhere 0 f
+rogram. 5 , ood Worinl returnTyp Ela Perey isa 5 f _ r Gol
+
+Key Point 43:
+----------------------------------------
+A function a ble ode that performs a specific and canbereusec 2rein 0
+i rogram. 5 cetuciiiBe functi Bese ues 5 function W return r a focr
+Gam
+
+Key Point 44:
+----------------------------------------
+A func block code that performs a specific and sed anywhere the
+program. 5 ime parameters returr inctionNa elparam d 5 body 4 leer ees
+4e4 0 Goal
+
+Key Point 45:
+----------------------------------------
+4 . 1 a block code that performs a specific ? é 2 reused anywhere the
+program. D a ionN : _ uncHe tes iaeteto 5 n body . a poe isfgoceecz
+Goel
+
+Key Point 46:
+----------------------------------------
+A function a block code that performs a specific ? _and can reused
+anywhere the program. 4, dnb c 0 eturnTy ctionNa arameters return ype
+functi metporam d 5 furctio! retur . ; enc Pooc 0
+
+Key Point 47:
+----------------------------------------
+function a block code that performs a specific can reused anywhere 0 i
+rogram. 5 - att : Genial turnType funeti tevin eae tetas 5 fanevon b 4
+pulty isfgoaceecsz Gop
+
+Key Point 48:
+----------------------------------------
+A functior code that performs a specific taf? and can anywhere the
+program. vets 2 Sek neil 4 returny: cionNome pameters J 1 I jody ial a
+Gam
+
+Key Point 49:
+----------------------------------------
+A functir :oCk code that performs a specific and can a 5 5 wat, yrninl
+return -ionName esters J . r Gam
+
+Key Point 50:
+----------------------------------------
+anction a block code that performs a specific ? .n reused 5 ast D
+oanin aType Peat J 7 function body k, result; lsefacacecse Gol
+
+Key Point 51:
+----------------------------------------
+A function a block code that performs a specific and can reused
+anywhere the program. aval D Gael a returnType functionNam a VPS uncon
+Seer eee J function body return result; ? 2 a a f- bEaaone 0 6lCUR
+
+Key Point 52:
+----------------------------------------
+A function a block code that performs a specific and can reused
+anywhere the program. 5 wit aval Gael ASSO aSnR 5 function body return
+result; 4 a Tome eMcMao Gece aoe
+
+Key Point 53:
+----------------------------------------
+A function a block code that performs a specific and can reused
+anywhere the program. 5 , aval Geld returnType ASSO aSnR 5 function
+body retu result - a ome eMcPao Gece 8 2 aoe
+
+Key Point 54:
+----------------------------------------
+function a block code that performs a specific ? can reused anywhere
+the program. 5 4,484 ants aturnTy i 7 urnType ASCE Netti IeTEEUS J
+function bod result: lseMaoacece 6 0 Gol
+
+Key Point 55:
+----------------------------------------
+A function a block code that performs a specific ? and can reused
+anywhere 0 i rogram. 5 aby 2 i meters peturnivis functionName paran 5
+_ function body return result; f RRELLL. 0
+
+Key Point 56:
+----------------------------------------
+a function a block code that performs a specific taf? can reused
+anywhere the program. Gms Covel a curnTy ionNa a : curn ype, functionN
+Wye Pele 5 inction body result; a info aeecsa oto oop
+
+Key Point 57:
+----------------------------------------
+a block code that performs a specific eused anywhere the program. ;
+ionN ters 5 ionNam rameters ret. e functi e par 5 . Resse 2 Goel
+
+Key Point 58:
+----------------------------------------
+A fun_ lock code that performs a specific taf and cai d anywhere the
+program. 5 retul sti i ple stay seers q 5 fur ret Pea oto
+
+Key Point 59:
+----------------------------------------
+A function code that performs a specific and can r where 5 , rogram. 5
+pat deeb old etuCtIWBE a Eels See 5 function b return resul: a EES
+
+Key Point 60:
+----------------------------------------
+A function a block that performs a specific and can reused 5 a
+returnType functio leith 5 Sgction body returi. ; o .
+
+Key Point 61:
+----------------------------------------
+A function a block code erforms a specific taf? and can reused
+anywherei gram. , dedly GBD 2 returnType functionName ;. a ters a -
+return i. 7 - A Eis
+
+Key Point 62:
+----------------------------------------
+A function a block code cforms a specific taf? and can reused anywhere
+i gram. rai att D Crane 6 returnType functionName p ers a ,, return
+rezn i . , , aaa
+
+Key Point 63:
+----------------------------------------
+A function a block code that. a specific and can reused anywhere inth
+- m. vat ody Crinl : a cetunnivBe pluctioniceils 5 5 function body :
+return result; .
+
+Key Point 64:
+----------------------------------------
+A function a block code tha a specific a and can reused anywhere a y 5
+any Comin cetuave functionName par. 4 function body 6 return result;
+foc a
+
+Key Point 65:
+----------------------------------------
+A function a block code that a specific and can reused anywhere m. 54D
+aan celui PEDENGHREII ENA. 5 function body return result; foc
+
+Key Point 66:
+----------------------------------------
+A function a block code a specific teh? and can b here i b reused
+anywhere 5 sah ably GBD Crees 2. returnType functionName par : 5
+function body H return result; : foc J
+
+Key Point 67:
+----------------------------------------
+A function a block code that specific and can reused anywhere P 5 adn
+att D posal a _ ; cetunnvRe ;anGHUORSIDIE bara. t function body return
+result; y a 4 4 fess 2
+
+Key Point 68:
+----------------------------------------
+A function a block code that performs a and can reused anywhere . f
+rogram. a att D nial cetunnilWRE pence Ente ers - function body return
+result; a a fess 2
+
+Key Point 69:
+----------------------------------------
+A function a block code that performs a spec i and can reused anywhere
+D ; rogram. 5 : ati andy D ont A cetUnnvEs POMEUBUMEIO Uraiecers i
+function body return result; f- Baaee
+
+Key Point 70:
+----------------------------------------
+A function a block code that performs a specific and can reused
+anywhere the program. 5 veh any Gael cetuchive einai Meniacliserey
+sens 5 function body return result; a, boo
+
+Key Point 71:
+----------------------------------------
+A function a block code that performs a specific and can reused
+anywhere the program. 5 rat deeb a Canin etunnivES einai Meine peraa
+sien - function body return result; _ fomce rao cee sao 8
+
+Key Point 72:
+----------------------------------------
+A function a block code that performs a specific and can reused
+anywhere 0 rogram. 5 sat Corinl returns ginaiioateicelipe airs g
+function body return result; 4 f a E fencer FMC Poke 456s . nel
+
+Key Point 73:
+----------------------------------------
+int add int a, int b void funt O return a b; cout Gate Smashers ; int
+a int main int sum add 5, 3 ; funi ; cout sum; . return 0; Gal
+
+Key Point 74:
+----------------------------------------
+int add int a, int b void fund return a b; foams pyo ona int main int
+main int sum add 5, 3 ; fun1 ; tia 7 , zim
+
+Key Point 75:
+----------------------------------------
+int add int a, int b void funi S return a b; cout G 5 int main : cout
+sum; i _ return 0; -.
+
+Key Point 76:
+----------------------------------------
+int add b void fund : returr cout Gate Smashers ; Dafinibine int a int
+main Crunay; lls
+
+Key Point 77:
+----------------------------------------
+add int a, int b void funt atb; 4 cout Gate Smashers ; 3 a . int main
+Cfunad; Gobbi 0; Gael
+
+Key Point 78:
+----------------------------------------
+add int a, int b 4 Dita void funt pte ; cout Gate Smashers ; J rae é
+add 5, 3 ; jsrail out sum; Crunt: Cobb return a Gael
+
+Key Point 79:
+----------------------------------------
+add int a, int b Din void funt i etun a b; cout Gate Smashers ; Dipate
+i main dae int main sum add 5, 3 ; 7 Cun; Colles 0;
+
+Key Point 80:
+----------------------------------------
+int add int a int b q . void funa 6 a b; cout Gate Smashers ;
+Difivitirw F 4 a 4 feiss, 3 ; pace cout sum; Cun; Coli return 0; foc
+
+Key Point 81:
+----------------------------------------
+inte int b Dyn void funt O r p cout Gate Smashers ; hus - Difivitire :
+; int main 4 3 ; fungi Coli a Gael
+
+Key Point 82:
+----------------------------------------
+add int a, int b void fund O ath; cout Gate Smashers ; 3 S Dipti P ..
+main q, main y int sum H A a fun1 ; I Gael
+
+Key Point 83:
+----------------------------------------
+int b . void fun1 S cout Gate Smashers ; ; A Difivitirw F i atm ofa,
+int main f cam
+
+Key Point 84:
+----------------------------------------
+int add int a, void funt Y- a 4 returna k cout Gate Smashers ;
+Difivitirw A R 4 o play int main funn; Gobbi, isea5tio
+
+Key Point 85:
+----------------------------------------
+int addr VET void funt O return - 3 cout Gate Smashers ; ; Depriie a a
+intima int main E i Cunt d; Gobbi,
+
+Key Point 86:
+----------------------------------------
+int 2 poo void funa 6 cout Gate Smashers ; Diva e 2 - int main fund;
+Goble Gamma
+
+Key Point 87:
+----------------------------------------
+; 3 , intb , void funt b; - cout Gate Smashers ; Pag Die int main a 3
+; Cun; Coli, 7 aoe
+
+Key Point 88:
+----------------------------------------
+int add int a, int.b 4 . void funt O returna b cout Gate Smashers ;
+Dafinibirw F F int main aden int main 2 iin Cana: bles return 0; y
+Gaul
+
+Key Point 89:
+----------------------------------------
+tadd inta, intb . void fund S :cturn atb; cout Gate Smashers ; 1 awe
+Difinitire ; o miain aon int main . a , 3 ; 7 sum; Cyan: 7 S
+
+Key Point 90:
+----------------------------------------
+int a, int void fun1 q a b; 4 i a cout Smashers ; Mong q Dafinitire 2
+int main als, 3 A unt ; Coll cal
+
+Key Point 91:
+----------------------------------------
+int int . void funa S 2 cout Gate Smashers ; : Defritin J int main 3 ;
+Cun; Coll bad : cal
+
+Key Point 92:
+----------------------------------------
+Sint; inte Dds void funt stb; 5 o cout Gate Smashers ; f alt dee int
+main y int sum a , 3 ; i ind. sum; Cun; urn 0; : ; aan
+
+Key Point 93:
+----------------------------------------
+int add inta, intb void fund S return a b; 5 cout Gate Smashers ; ;
+Definite aint 2 add 5, 3 ; int main cout sum; Cun; Coll return 0; _
+cal
+
+Key Point 94:
+----------------------------------------
+int add int a, int b void fund O sturn a b; 5 cout Gate Smashers ;
+Definite 2 Gocsun rom cout 3 Cana: bles return y a oan
+
+Key Point 95:
+----------------------------------------
+int add int a, int b void fund O cout Gate Smashers ; Dafinikire 3 B G
+nain int main y int sum a . ind. outec C fund 4 turn 0; aoe
+
+Key Point 96:
+----------------------------------------
+int add int a, intb void fund O cout Gate Smashers ; i 2 v . 5, 3 ;
+Wear e: 5 A i sim Cun; Coblit urn 0; ool
+
+Key Point 97:
+----------------------------------------
+int add int a, int b Dyn void funt S wath; b cout Gate Smashers ; : 2
+int main int sum 2,3 ; a ITs Cun; bleh ; ool
+
+Key Point 98:
+----------------------------------------
+int add int a, int_b Dita void fund matb; cout Gate Smashers ; n _ é i
+A , int main y int sum . b i , . Cun; 4
+
+Key Point 99:
+----------------------------------------
+int add int a, int b Dit void funt 6 h; cout Gate Smashers ; n a ; y
+int main sum add 5, 3 for ; Cana: r aaa
+
+Key Point 100:
+----------------------------------------
+int add int a, int_b void fun S cout Gate Smashers ; é a a int main
+addle sot Coble Gaal
+
+Key Point 101:
+----------------------------------------
+add int.a, intb . void funt O matb; cout Gate Smashers ; 1 oer o : a a
+.ain int main sum add 5, 3 P Profs C fun; Coli, sum; pres 5 Gaal
+
+Key Point 102:
+----------------------------------------
+int add int a, intb Din void funt O return a b; cout Gate Smashers ;
+Difinitire . a P int main a main G int sum 244 5, 3 frog _77, i cones
+2 C fun: blr - ? isicr Gaal
+
+Key Point 103:
+----------------------------------------
+ait add int a, int b Dit void funt return a b; 5 5 cout Gate Smashers
+; : Difivitire main PEP SIN. _ Pages Cun; Coli, 4
+
+Key Point 104:
+----------------------------------------
+int intb . void fund S - 5 math; cout Gate Smashers ; _ oye aot int
+main 4 adds, 3 fimots C fun; Coli, Galea
+
+Key Point 105:
+----------------------------------------
+int void funt S F a a D cout Gate Smashers ; - Defiritirw ine main 2
+int main 3 Pfimads C fun; Coli, a Galea
+
+Key Point 106:
+----------------------------------------
+Saint void fun S b; cout Gate Smashers ; b a Definite int main STN
+eunag Collin E Galea
+
+Key Point 107:
+----------------------------------------
+wdd inta, intb Dos void funt S atb; cout Gate Smashers ; Dafinibire 5
+P main sum add 5, 3 Pfimoty 7 j sum; a Grunt: Gobbi urn 0; é . oan
+
+Key Point 108:
+----------------------------------------
+int add int a, int b void fund ath; cout Gate Smashers ; Dafinibire 0
+0 int main ine surn See Cun; Coll, out sui 2 a
+
+Key Point 109:
+----------------------------------------
+int add int a, int_b Dts void funt _ returna b; b cout Gate Smashers ;
+Dipiniticw int main , ant matt int main int sum a , 3 fimets C fun
+Coli, ool
+
+Key Point 110:
+----------------------------------------
+int add int a, int_b Don void fund return a b; 9 o cout Gate Smashers
+; g. Definibire f aut y main aot sum i funa ; Gin, ool
+
+Key Point 111:
+----------------------------------------
+add int a, int b Dyn void fund eturn a b; 9 o cout Gate Smashers ; dee
+Definition main I omar int main Wee Cun; Coli sum; haa 0; s i Goal
+
+Key Point 112:
+----------------------------------------
+add int a, int b void fund a sturn a b; 5 cout Gate Smashers ; : Dap :
+nin int main Bye 28805, 1 foods Cfuna; Gobbi i sum; 0; b
+
+Key Point 113:
+----------------------------------------
+int a, int b void fund urn a b; cout Gate Smashers ; ain i ineeiath
+add 5, 3 9 ots lett Cfunad: Goblins y alee
+
+Key Point 114:
+----------------------------------------
+inta, intb void funt 6 nash; air cout Gate Smashers ; Dipiniticw a s
+int main ferrets unas Coli, é
+
+Key Point 115:
+----------------------------------------
+aim bit . void funn 0 O b; F o cout Gate Smashers ; Dafinitire a int
+main
+
+Key Point 116:
+----------------------------------------
+int wht . void fund 6 cout Gate Smashers ; 4 Definibire ree int main
+Cryo: e i!
+
+Key Point 117:
+----------------------------------------
+r aint b void fund b; cout Gate Smashers ; , 4 Dipritire alt int main
+I Abi... i!
+
+Key Point 118:
+----------------------------------------
+Aad int a, intb . void fund S urna b; 5 B cout Gate Smashers ; ! int
+main : sum -adal, 3 fmeds 5 olbin. sum; 4 Crunt: ! 4
+
+Key Point 119:
+----------------------------------------
+int add int a, int_b void fund ; return a b; a 5 cout Gate Smashers ;
+cell Ose int main H Fall main G int sum add 5, Pfements 7, i cout sui
+: Crunto: blr ; return 0- isa s 2
+
+Key Point 120:
+----------------------------------------
+int add int a, intb void funt O return a b; b cout Gate Smashers ;
+Defivitire int main main G int sum 7 i cout . Crunto: ! i eturn, A r
+wesc ?
+
+Key Point 121:
+----------------------------------------
+int add int a, . void fun return a b; 5 o cout Gate Smashers ; ? Deis
+sul Vie
+
+Key Point 122:
+----------------------------------------
+int add int a, intb void fund return a b; 5 5 cout Gate Smashers ;
+Dafinitirw int maii int main int add. B Pfimety Cobllics. i sul Cunt:
+4 urn 0 7
+
+Key Point 123:
+----------------------------------------
+int add int a, int b Dds void funt 6 return a b; 5 cout Gate Smashers
+; Dapinitise int main . Gint sume BYP fmts int main cout Cun; Gob 7 f
+Goal
+
+Key Point 124:
+----------------------------------------
+int add int a, int b pore S return a b; 9 e coutis Gate Smashers ; i
+Deprii ; ant main i. Dyers int main int sum 4 , out Cana y turn 0; 4
+aOeei
+
+Key Point 125:
+----------------------------------------
+int add int a, intb Dyn void funt returna b; a 5 cout Gate Smashers ;
+Tyner Dafinitire int main int main a E int suf Paes Pfementy Cun Coli
+cout ,; ; ret, 0; ices .
+
+Key Point 126:
+----------------------------------------
+add int a, int b Dyn void funt A retumal b; abd cout Gate Smashers ;
+Dubin j , a t maini t seen int main a sum; C puna z t 0; Gal
+
+Key Point 127:
+----------------------------------------
+add int a, int b Dyn void funt Rag ose oot Gate Smashers ; Dipritire a
+a int main sufn Bal, 3 rats Cun; Coli, sum; 7 n 0; 4 camel
+
+Key Point 128:
+----------------------------------------
+int.a, intb Dyn void funt ash B Smashers ; Difirsticw _ a ain A 4 main
+sufa Sdd 5, 3 foros _77 ; out sum; Cun; Coli, eturn 0;
+
+Key Point 129:
+----------------------------------------
+int add int a, intb void fund return ash cout Gate Smashers ;
+Dfivitirw int main 7 4 ? main Gint wot lie i cout sum; C fund Goll i
+retu oss Gall
+
+Key Point 130:
+----------------------------------------
+add int a, int b Dds void funt S ash 5 cout Gate Smashers ; Dep main 4
+ydals, 52y int main 2 7 . Cai
+
+Key Point 131:
+----------------------------------------
+int add inta, intb void funi S return BAe. cout Gate Smashers ;
+Defriie a malniyt int main s int sum _ , cout Cfunt: col! y retury _
+3.
+
+Key Point 132:
+----------------------------------------
+int add inta, intb 1 i ret b; b j urn ash a a Gate Smashers ; int main
+G int sufn ydals, 3 i cout sum; return 0; e 4 a
+
+Key Point 133:
+----------------------------------------
+int add int a, int b Den S a Bas ; return ash a Gate Smashers ; int
+main : 4 Gint sufn 3dd 5, 3 frrm cout sum; return 0; a . a
+
+Key Point 134:
+----------------------------------------
+int add int a, int_b Dyn void fund s return fay b; S b y cout 5 oer
+int main ; j int mak int main Gint i cout sum; Cunt return 0;
+
+Key Point 135:
+----------------------------------------
+int add int a, intb i void fund G returnatb; a 5 a cout Gate Dept g
+int main Gint unas, Opis POE cout sum; und; 5 return 0; fac
+
+Key Point 136:
+----------------------------------------
+int add inta, int b Dyn void fund return axl b; cout Gate Smas ! Fst
+Gate Sms, i Dafiritire e int main tenet Gint wot , int main cout sum;
+runt: Col t return 0; aoc
+
+Key Point 137:
+----------------------------------------
+int add int a, intb Dia void fun1 return ash; cout Gate Depritio G int
+main eerie Gint wot tlie int main ; cout sum; Cfunto: Goll return 0;
+
+Key Point 138:
+----------------------------------------
+int add int a, intb i . void a returna b; a 5 cout GUe ashers Dep ,
+int main Germain Gint sua Radls 3 foros Cana; Galli cout sum; return
+0; foc
+
+Key Point 139:
+----------------------------------------
+int add int a, int b Dos fund j return ote intmainit I int main , G
+int suf Saal, forts Cuma ; Goll cout sum; Til return 0; foc
+
+Key Point 140:
+----------------------------------------
+int add int a, intb void fund return ashi a v cout G vers ; Dafinsb
+int main int m G ine suff 3dals, 8 freds : Cun; return 0; foc
+
+Key Point 141:
+----------------------------------------
+int add int a, int b void fund ree cout G hers ; 4 int main . . uel t
+G int sufn 3dd 5, 3 4, cout sum; ene return 0; foc
+
+Key Point 142:
+----------------------------------------
+int add int a, int b void fund S return ashi 9 D cout Gate Smashers ;
+1 Difiritine int main 7 a Gint sufa dats, IPPs are , cout sum; Cun
+Collis return 0; . .
+
+Key Point 143:
+----------------------------------------
+int add inta, intb void fund return a ; cout pees ora . Dafiriiw e int
+main int main 5 F G int sulin 4dd 5, 3 foros Trent 0 cout sum; 4
+return 0; : foc
+
+Key Point 144:
+----------------------------------------
+int add inta, int . void fund O returna b; cout Gate 3 D I Dini Age
+int main 1 mtmain ana, 0 cout sum; return 0; foc
+
+Key Point 145:
+----------------------------------------
+int add int a, intb void funa O returnatb; cout ishers ; Difinill a
+inten int main G int suit 3dd 5, 3 Yfimods Cnt: cout sum; return 0; S
+
+Key Point 146:
+----------------------------------------
+int add int a, int b Dds void f O return b; a i . Smashers ; int main
+; int main G int sufn 3dd 5, 3 Wess . D cout sum; : a return 0; foc
+aaa
+
+Key Point 147:
+----------------------------------------
+int add inta, intb Fund. , return b; a D 5 Gate Smashers ; o int main
+i 4 Gint alt i int ! cout sum Y t return 0; , foc
+
+Key Point 148:
+----------------------------------------
+int add int a, int b Don a ind return ! b; s D Gate Smashers ; G int
+sufn 3dd 5, 3 firsts a cout sum; 4 return 0; a Noe foc i :
+
+Key Point 149:
+----------------------------------------
+int add int a, int b void funt ; return b; a b cout G i pon Dipritier
+_ poset int main F . G int suf 3da 5, 3 forts i cout sum; return 0; .
+4 4
+
+Key Point 150:
+----------------------------------------
+int add int a, int b void fund 6 eta cout cate . 7 int main ionecina
+til int main cout sum; Cran; ! 4 return 0; ; 1 , ees 2
+
+Key Point 151:
+----------------------------------------
+ewnegh creer cout Gate _ Difivitire int main Gint int main cout sum;
+Cun; oll: 4 return 0; i feec ,
+
+Key Point 152:
+----------------------------------------
+int add inta, intb . - a i return a b; B, b i Smashers ; vat int main0
+G ine suf Saas, Preis cout sum; 4 return 0; foc a
+
+Key Point 153:
+----------------------------------------
+int add int a, int b Suny f return asl b; b 5 i Smashers ; Gint sufa
+3dd 5, 3 fimcds Uli cout sum; return 0; r feces.
+
+Key Point 154:
+----------------------------------------
+int add inta, intb void ; return ash a D b eSmashers ; int main i int
+main , Cine . 7 cout sum; , return 0;
+
+Key Point 155:
+----------------------------------------
+int add int a, int b Dyn void ? 6 return asl b; b cor 2 Smashers ; int
+main int Gint sua 3dd 5, prcis sre manl cout sum; wal Cun; return 0; 2
+
+Key Point 156:
+----------------------------------------
+int add int a, int b void fun1 Den foid funi. ers cout - ashers ; int
+main sulin dels, Phy cout sum; ils G rund return 0; 3 _
+
+Key Point 157:
+----------------------------------------
+int add int a, int b Dyn void funt 6 return a ; cout - iers ;
+Dipfritirw 4 int main i Fes sun Yaal5, prrets int main s cout sum; fun
+return 0;
+
+Key Point 158:
+----------------------------------------
+int add int a, intb . void fund S returna b; cout jers ; 2 Difinitire
+, int main 3 imal int main, : G int suf Baal, feds C fund - cout sum;
+Jin 4 return 0; I
+
+Key Point 159:
+----------------------------------------
+int add int a, intb Dyn void funt errs cout shers ; Dit int main i i :
+a A suf del Pfrreds int main , cout sum; Cura return 0; lec e
+
+Key Point 160:
+----------------------------------------
+int add int a, int b void fun1 S rea cout yashers ; Dept e g intmalnty
+int main Gint suf 2aats, SPs 775 cout sum; 4 ? return 0; J fevc
+
+Key Point 161:
+----------------------------------------
+int add int a, ole i returna b; Gate smashers ; int main Gint suf 3dd
+5, prcis ual. 4 cout sum; return 0; eecee 2: p
+
+Key Point 162:
+----------------------------------------
+int add int a, int b Dyn void fun? return asl b; a D cour mashers ;
+Dif. intmalny int mai Gint suf Bats, Mts! nag - cout sum; ils G ;
+return 0; 4 faeces
+
+Key Point 163:
+----------------------------------------
+int add int a, int b Dyn void fun 6 returnatb; cout mashers ; int main
+int mai G int suka ada, frees Cun a cout sum; ils Vim y Vina return 0;
+fence
+
+Key Point 164:
+----------------------------------------
+int addfinta, intb void returna b; cout imashers ; o a Odea 6 int main
+int maint Gint suin a, Cun. cout sum; als ; ode return 0; : i fers 2
+
+Key Point 165:
+----------------------------------------
+int add int a, int b Don void fun return asl b; b cout 9 psig g
+intmainiiiy int main G int suff dats, 3 Mets Cua cout sum; 8 return 0;
+y. . fers 2
+
+Key Point 166:
+----------------------------------------
+int add int a, a Void fur returna b; o 5 cou 2 Smashers ; int main Git
+sult yells, Prods int maing . _ cout sum; ils Cfuna return 0; r a
+
+Key Point 167:
+----------------------------------------
+int add int a, intb Vor 6 return asl b; : Smashers ; i? int main . int
+suit aadls 2 frets Cunt cout sum; als return 0; B j a
+
+Key Point 168:
+----------------------------------------
+int add int a, int b vou 6 i b; , unas Smashers ; Kae int main G int
+suit 3dd 5, 3 frrds fun cout sum; c return 0; ; foc e j
+
+Key Point 169:
+----------------------------------------
+int add int a, int b Dds void bei S return ash; o a Smashers ; intimal
+I INE vent, ote sun a 3 ecets Cun; q cout sum; als 7 obe - return 0; 7
+d i foc e 3
+
+Key Point 170:
+----------------------------------------
+int add int a, int b void 6 return b; b A, Smashers ; intimal int nas
+i a sul HRS 7 sun cout sum; return 0; i r
+
+Key Point 171:
+----------------------------------------
+intadd inta,ineb voir pains Smashers ; , a int main int man. G int
+suka Saas, 3 Res 17st cout sum; 9 Cyn ode ; return 0; wil foc 2 _
+
+Key Point 172:
+----------------------------------------
+int add int a, . void funa 6 returnat b; a 5 cout yashers ; a int main
+i Git suf del Wey int main cout sum; a C fun ode return 0; emces x ,
+
+Key Point 173:
+----------------------------------------
+int add int a, int b void fund return ash; one cout ashers ; int main
+. thal a and ; cout sum; G a sum; obdl2, return 0; loc e x
+
+Key Point 174:
+----------------------------------------
+int add int a, int b Dds void fun1 returnat b; a 5 cout pashers ; int
+main int main , Gint suf 3dd 5, 3 nts 2 cout sum; sum; obdl2, return
+0; aan
+
+Key Point 175:
+----------------------------------------
+int add int a, int b void fund ! 6 F return agp 4 cout G sth int main
+r 4 q G inten t main Gint thal cout sum; e Crum Coli ? , return 0; loc
+e
+
+Key Point 176:
+----------------------------------------
+int add int a, intb void funt babii! cout Gate Dafiribice int main
+Gint suf 3dd 5, 3 Rents i cout a funds olirs. return 0; loc e a
+
+Key Point 177:
+----------------------------------------
+int add int a, int b void fund O returnatb; a 5 cout Gate: But S Gate
+Dipti i i a int main 7 r G ine sufa 9dats, Res ema i cout sum; Free
+Coruna return 0; p: loc e
+
+Key Point 178:
+----------------------------------------
+int add int a, int b Dds void funt S return cout Gate ; Difiriti e ? A
+p a int main Tre yda s, int main sums ley return 0; i, loc e
+
+Key Point 179:
+----------------------------------------
+int add int a, int b void funt S return a ; cout Gat ; Difinitie 6 i U
+int main roe Gin thal N cout sum; a e 1 ; ode return 0; loc
+
+Key Point 180:
+----------------------------------------
+int add int a, int_b void funt returna b; cout Gate Sma: 7 p a Cake
+DORs r Cae cout sum; a Crunt: d return 0; : y ioc
+
+Key Point 181:
+----------------------------------------
+int add int a, int_b void funt returnatb; cout Gate Smashe 2 ritie
+Definite e , 7 a int main poteect G int sul 3aats, 3 4 ala i cout sum;
+a Cruna: return 0; ioc
+
+Key Point 182:
+----------------------------------------
+int add int a, int_b void funt returna b; o 5 cout Gate Smashers ; Dif
+i - int main int main Gint thal 1 Crunas Gall ode return 0; 4 loc e .
+
+Key Point 183:
+----------------------------------------
+MYGACHO PINE lock cade yous AéPfbtiis a specific a ané ean Peuged
+anywherejn thewprogratate Smashers ; rig DIpne - ieturntype
+functiohName parameters 2 suction fay ? ntain 5 2 a why Cpu; Collie.
+seturoscesult; return 0; ind foc e . aaa
+
+Key Point 184:
+----------------------------------------
+A function a block code that performs a and can reused Tomes i rogram.
+S any Gent e returnees Smita amreters function body 4 return result; _
+a foc 4
+
+Key Point 185:
+----------------------------------------
+A function a block code that performs and can reused anywhere the ora,
+ahi snl Gene 4 etucnie Smita enreters t . function body return result;
+7 foce :BEEcigocesc: .
+
+Key Point 187:
+----------------------------------------
+y Subser a Gate _
 
 ========================================
 End of notes
